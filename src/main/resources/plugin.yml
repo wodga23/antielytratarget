@@ -1,0 +1,4 @@
+name: ElytraGuard
+main: com.example.elytraguard.ElytraGuard
+version: 1.0
+api-version: "1.21"

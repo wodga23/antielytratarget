@@ -1,0 +1,4 @@
+kick-at: 5
+decay-seconds: 60
+log-every: 5
+kick-message: "&cHile tespit edildi!\n&7Elytra Target / Silent Rocket"
